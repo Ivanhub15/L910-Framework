@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "channelId": 1,
+    "title": "Вечерний стрим",
+    "viewers": 5231,
+    "isActive": true,
+    "startedAt": "2024-11-10T18:30:00Z",
+    "categories": [
+      "games",
+      "talk"
+    ]
+  },
+  {
+    "id": 1768500372894,
+    "channelId": 1,
+    "title": "Test Stream",
+    "viewers": 10,
+    "isActive": true,
+    "startedAt": "2026-01-15",
+    "categories": [
+      "talk"
+    ]
+  },
+  {
+    "id": 1768502031015,
+    "channelId": 1,
+    "title": "Demo",
+    "viewers": 5,
+    "isActive": true,
+    "startedAt": "2026-01-15",
+    "categories": [
+      "talk"
+    ]
+  }
+]

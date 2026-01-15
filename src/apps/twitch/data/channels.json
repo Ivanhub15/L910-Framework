@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "JustChatting",
+    "owner": "Streamer123",
+    "isLive": true,
+    "createdAt": "2024-11-01T12:00:00Z",
+    "tags": [
+      "chat",
+      "irl"
+    ]
+  },
+  {
+    "id": 1768500244970,
+    "name": "MyChannel",
+    "owner": "Ivan",
+    "isLive": false,
+    "createdAt": "2026-01-15",
+    "tags": [
+      "test"
+    ]
+  },
+  {
+    "id": 1768501981858,
+    "name": "Demo",
+    "owner": "Ivan",
+    "isLive": false,
+    "createdAt": "2026-01-15",
+    "tags": [
+      "test"
+    ]
+  }
+]
