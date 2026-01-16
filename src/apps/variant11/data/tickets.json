@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "price": 450,
+    "isSold": false,
+    "sessionDate": "2026-01-20T19:00:00",
+    "seats": [
+      "A1",
+      "A2"
+    ]
+  },
+  {
+    "id": 1768502083496,
+    "movieId": 1,
+    "price": 500,
+    "isSold": false,
+    "sessionDate": "2026-01-20",
+    "seats": [
+      "B1",
+      "B2"
+    ]
+  }
+]

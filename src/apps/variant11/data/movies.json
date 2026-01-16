@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "duration": 148,
+    "isAvailable": true,
+    "releaseDate": "2010-07-16",
+    "genres": [
+      "sci-fi",
+      "thriller"
+    ]
+  },
+  {
+    "id": 1768502065243,
+    "title": "Matrix",
+    "duration": 136,
+    "isAvailable": true,
+    "releaseDate": "1999-03-31",
+    "genres": [
+      "sci-fi"
+    ]
+  }
+]
