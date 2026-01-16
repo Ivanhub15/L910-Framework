@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "productIds": [1],
+    "totalPrice": 1200,
+    "isPaid": false,
+    "orderDate": "2026-01-10",
+    "deliveryTypes": ["courier"]
+  }
+]
